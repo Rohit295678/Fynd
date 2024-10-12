@@ -123,21 +123,20 @@
   }
 
   .star_container {
+    transform: rotate(90deg);
     position: static;
-    margin: 20px 0;
     display: flex;
+    align-items: center;
     justify-content: center;
+    transform-origin: center center;
   }
 
   .transform-icon img {
-    margin: 20px 0;
+    margin: 0;
   }
 
-  .dash-top{
-    
-   
-    
-    
+  .arrow{
+    transform: rotate(0deg);
   }
 
   .small-images {
@@ -193,22 +192,22 @@
   }
 
   .star_container {
+    transform: rotate(90deg);
     position: static;
-    margin: 20px 0;
     display: flex;
+    align-items: center;
     justify-content: center;
+    transform-origin: center center;
   }
 
   .transform-icon img {
-    margin: 30px 0;
-    width: 100px;
-    height: 100px;
+    margin: 0;
   }
 
-  .dash {
-    margin: 0;
-    display: none;
+  .arrow{
+    transform: rotate(0deg);
   }
+
 
   .small-images {
     position: relative;
