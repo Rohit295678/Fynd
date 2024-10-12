@@ -7,7 +7,7 @@ const App = () => {
     "https://5.imimg.com/data5/SELLER/Default/2023/10/353027032/OS/TU/JH/89328219/1408-wht-10-500x500.jpg",
     "https://5.imimg.com/data5/SELLER/Default/2022/9/XR/TQ/KY/38630640/casual-shoes-500x500.jpg",
     "https://rukminim2.flixcart.com/image/750/900/xif0q/shoe/x/y/8/7-heart-beat-white-pet-7-lnt-fashion-white-original-imahfnhgcpcjynaz.jpeg?q=20&crop=false",
-    "https://hips.hearstapps.com/hmg-prod/images/cushioned-shoes-15407-1632754173.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQozzxTlkhyw_BeDQqEQoZTx0Dw-sMcksTRObMW2Bqph09wc7N1DGzgHk_VU0ZPtnrf05w&usqp=CAU",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgZsvypQZoevTXtJpwKoeBVCtFw3ERgug9g&s",
     "https://cdn.thewirecutter.com/wp-content/media/2024/05/runningshoesforyou-2048px-2251.jpg?auto=webp&quality=75&width=1024",
     "https://cdn.runrepeat.com/storage/gallery/buying_guide_primary/5/5-best-basketball-shoes-15275028-main.jpg",
