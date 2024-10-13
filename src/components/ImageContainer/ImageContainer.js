@@ -49,7 +49,7 @@ const ImageContainer = ({ images }) => {
             ))}
           </div>
           <div className='star_container'>
-            <div className='dash dash-top'><span className='mob'>--------------</span>----</div>
+            <div className='dash dash-top'><span className='mob'>----------------------</span>----</div>
             <div className="transform-icon">
               <img src='https://rideshinemobiledetailing.com/wp-content/uploads/2022/10/star-icon.png' alt="star"/>
             </div>
