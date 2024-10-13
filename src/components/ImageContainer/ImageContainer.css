@@ -60,6 +60,10 @@
   height: auto;
 }
 
+.mob{
+  visibility: hidden;
+}
+
 .large-image img {
   width: 100%;
   height: 300px;
@@ -133,7 +137,7 @@
   .image-section-right {
     width: 100%;
     margin: 0 auto;
-    left: 1rem;
+    left: 0.1rem;
   }
 
   .star_container {
@@ -143,8 +147,12 @@
     align-items: center;
     justify-content: center;
     transform-origin: center center;
+  
   }
-
+   
+  .mob{
+    visibility: visible;
+  }
   .transform-icon img {
     margin: 0;
   }
@@ -210,7 +218,10 @@
     margin: 0 auto;
     left: 0.5rem;
   }
-
+   
+  .mob{
+    visibility: visible;
+  }
   .star_container {
     transform: rotate(90deg);
     position: static;
