@@ -32,7 +32,6 @@ const ImageContainer = ({ images }) => {
   };
 
   return (
-    <div>
       <div className="images-container">
       
         <div className="image-section">
@@ -58,7 +57,7 @@ const ImageContainer = ({ images }) => {
           </div>
         </div>
 
-        <div className="image-section">
+        <div className="image-section-right">
           <div className="large-image">
             <img src={RightLargeImage} alt="Large" />
           </div>
@@ -75,7 +74,6 @@ const ImageContainer = ({ images }) => {
           </div>
         </div>
       </div>
-    </div>
   );
 };
 
