@@ -130,6 +130,12 @@
     margin: 0 auto;
   }
 
+  .image-section-right {
+    width: 100%;
+    margin: 0 auto;
+    left: 1rem;
+  }
+
   .star_container {
     transform: rotate(90deg);
     position: static;
@@ -197,6 +203,12 @@
   .image-section {
     width: 90%; 
     margin: 0 auto;
+  }
+
+  .image-section-right {
+    width: 90%; 
+    margin: 0 auto;
+    left: 0.5rem;
   }
 
   .star_container {
